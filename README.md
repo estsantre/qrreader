@@ -1,5 +1,7 @@
 # QRreader
 
+Use QRreaderRPi if you are going to use it on a raspberry pi, otherwise use QRreader
+
 Tested with python2.7
 
 ## Requirements
