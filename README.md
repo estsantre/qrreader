@@ -1,5 +1,7 @@
 # QRreader
 
+Tested with python2.7
+
 ## Requirements
 
 ### Pillow
